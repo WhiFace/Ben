@@ -1,0 +1,24 @@
+Positioning:
+            Static: All elements are originally set to this position
+            Relative: Relative to the position of the elements
+            Absolute: relative to the Absolute position of the element
+            Fixed: Fixed to the position. Good for Navs and Sidebars
+
+            Marging Positioning:
+            text-align:
+Fonts:
+
+              merriweather
+              sacremanto
+              monserrat
+
+              use rem for font size
+
+              .Right-img-dsc{
+                clear: left;
+              }
+
+              .Left-img-dec{
+                clear:right;
+              }
+Wrapping text around objects: Only use float to do this. Don't use float to do Positioning, but use the position properties.
